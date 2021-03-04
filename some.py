@@ -10,4 +10,4 @@
 prints something                         
 """
 
-print("something")
+print("something cool")
